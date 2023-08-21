@@ -11,7 +11,7 @@ I'm a B.Tech student studying Electronics and Computer Science at Shah & Anchor 
 ## Technologies and Tools
 
 - Cloud Computing (AWS, Azure)
-- Front-end Development (HTML, CSS, JavaScript)
+- Front-end Development (HTML, CSS, Bootstrap)
 - Python Programming
 - Machine Learning and AI
 
