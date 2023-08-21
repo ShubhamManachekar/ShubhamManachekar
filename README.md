@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Shubham S Manachekar
 
-I'm a B.Tech student studying Electronics and Computer Science at [Your University Name], Mumbai. Welcome to my GitHub profile!
+I'm a B.Tech student studying Electronics and Computer Science at Shah & Anchor Kutchhi Engineering College, Mumbai. Welcome to my GitHub profile!
 
 ## About Me
 
