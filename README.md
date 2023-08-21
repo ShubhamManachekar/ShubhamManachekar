@@ -31,7 +31,7 @@ Building an intelligent chatbot using AI/ML techniques to provide information an
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamManachekar&layout=compact&theme=radical)
 
 ## Let's Connect
 
