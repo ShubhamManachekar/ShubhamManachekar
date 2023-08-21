@@ -21,21 +21,13 @@ I'm a B.Tech student studying Electronics and Computer Science at Shah & Anchor 
 
 ## Projects
 
-### [Cloud-Based Portfolio](Link to Cloud-Based Portfolio Repository)
-
-Creating a cloud-hosted portfolio website to showcase my front-end development skills and projects.
-
-### [AI-Powered Chatbot](Link to AI-Powered Chatbot Repository)
+### [AI-Powered Chatbot](https://github.com/ShubhamManachekar/Chatbot-using-NLTK-and-DeepLearning--College--enquiry)
 
 Building an intelligent chatbot using AI/ML techniques to provide information and assistance.
 
-### [Machine Learning Projects](Link to Machine Learning Projects Repository)
-
-A collection of projects demonstrating the application of machine learning in solving real-world problems.
-
 ## GitHub Stats
 
-![Shubham S Manachekar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Shubham S Manachekar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamManachekar&show_icons=true&theme=radical)
 
 ## Top Languages
 
